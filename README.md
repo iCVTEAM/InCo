@@ -5,8 +5,6 @@ This code provides an initial version for the implementation of the Neurocomputi
 [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014692). 
 
 
-For our projects, please refer to http://cvteam.net/projects/2021/Gard/Gard.html
-
 # Prerequisites
 
 Python 3.6+
